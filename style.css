@@ -1,0 +1,16 @@
+body {
+    background-color: lightpink;
+}
+
+#header {
+    background-color: white;
+    padding: 10px;
+}
+
+.category {
+    color: yellow;
+}
+
+#webcam {
+    border-style: dashed;
+}
